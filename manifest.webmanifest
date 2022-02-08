@@ -1,0 +1,16 @@
+{
+  "background_color": "green",
+  "description": "ROGi Student App",
+  "orientation": "portrait",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon/fox-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "ROGi Awesome Games",
+  "short_name": "ROGi",
+  "start_url": "/pwa-examples/a2hs/index.html"
+}
